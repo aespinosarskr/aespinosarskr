@@ -8,3 +8,5 @@ const Angel = {
   tools: [Angular, Node, Docker],
 }
 ```
+
+## :wrench: Technologies
