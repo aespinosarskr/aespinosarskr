@@ -44,6 +44,6 @@ const Angel = {
   ]
 };
 ```
-
+✅ Thanks for visiting my profile. I'm always open to collaborating and learning from other developers!
 
 
