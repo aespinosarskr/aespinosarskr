@@ -1,14 +1,50 @@
-## Hi there, I'm Angel 👋
+# Hi there, I'm Angel 👋
 
 ### A little more about me...
 
+I'm a developer passionate about creating modern, scalable, and efficient solutions. I specialize in web technologies and DevOps practices and enjoy constantly learning and sharing knowledge.
+
+---
+
+## 🧠 Tech Stack
+
 ```javascript
 const Angel = {
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [Angular, Node, Docker],
-}
+  code: ["JavaScript", "TypeScript", "Python", "Java", "Bash"],
+  technologies: {
+    frontEnd: ["HTML", "CSS", "JavaScript", "TypeScript"],
+    frameworks: {
+      js: ["Angular", "React", "Vue", "Next.js"],
+      python: ["Flask", "Django"]
+    },
+    backEnd: {
+      js: ["Node.js", "Nest.js"],
+      python: ["Flask", "Django"],
+      java: ["Spring Boot"]
+    },
+    devOps: ["Docker", "Nginx"],
+    databases: ["MySQL", "PostgreSQL", "Oracle", "MongoDB"]
+  },
+  architecture: [
+    "Progressive Web Apps (PWA)",
+    "Single Page Applications (SPA)",
+    "Microservices",
+    "Monolithic Architecture",
+    "MVC",
+    "Client-Server"
+  ],
+  methodologies: ["Agile", "Scrum"],
+  tools: [
+    "Git", "GitHub", "GitHub Desktop", "Postman", "VS Code", "Terminal",
+    "IntelliJ IDEA", "Eclipse", "Spring Tool Suite",
+    "Docker Desktop", "Swagger", "Figma", "Draw.io"
+  ],
+  softSkills: [
+    "Problem Solving", "Teamwork", "Communication",
+    "Adaptability", "Time Management", "Self-learning"
+  ]
+};
 ```
 
-## :wrench: Technologies
 
-![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![NodeJS](https://img.icons8.com/color/30/nodejs.png)![NPM](https://img.icons8.com/color/30/npm.png)![Git](https://img.icons8.com/color/30/git.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![AngularJS](https://img.icons8.com/color/30/angularjs.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)![Linux](https://img.icons8.com/color/30/linux.png)![Console](https://img.icons8.com/color/30/console.png)
+
