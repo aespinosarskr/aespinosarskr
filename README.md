@@ -1,6 +1,6 @@
 # Hi there, I'm Angel 👋
 
-### A little more about me...
+## A little more about me...
 
 I'm a developer passionate about creating modern, scalable, and efficient solutions. I specialize in web technologies and DevOps practices and enjoy constantly learning and sharing knowledge.
 
@@ -28,7 +28,6 @@ const Angel = {
   architecture: [
     "Progressive Web Apps (PWA)",
     "Single Page Applications (SPA)",
-    "Microservices",
     "Monolithic Architecture",
     "MVC",
     "Client-Server"
